@@ -6,10 +6,11 @@ O banco de dados foi construído utilizando o PostgreSQL, uma poderosa plataform
 
 É importante ressaltar que este projeto encontra-se em fase inicial e o banco de dados representa apenas o primeiro passo nessa jornada. A estrutura do banco de dados foi projetada levando em consideração a flexibilidade e expansibilidade necessárias para acompanhar o desenvolvimento do projeto.
 
-No diretório `/docs`, você encontrará toda a documentação relacionada ao projeto:
+No diretório `/docs`, você encontrará toda a documentação relacionada ao projeto, além do diagrama do banco de dados:
 - O arquivo `DOC_DB.docx` contém a documentação das entidades, descrevendo a estrutura e as relações entre as tabelas.
 - O arquivo `CONSTRUCT_DB.pdf` fornece um tutorial passo a passo para construir o banco de dados a partir do arquivo `tese_db.sql`.
 - O arquivo `Queries.pdf` contém consultas pré-definidas que podem ser utilizadas para facilitar a utilização do banco de dados.
+- O arquivo `diagram.pdf` contém imagens do diagrama construído.
 
 Dentro do diretório `sql-scripts`, existem dois arquivos importantes. O arquivo `tese_db.sql` auxilia na construção inicial do banco de dados, enquanto o arquivo `data.sql` contém informações de teste para popular o banco de dados.
 
